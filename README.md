@@ -13,7 +13,7 @@ Three-class sentiment classification of financial sentences (Financial PhraseBan
 
 ## My role
 
-Team lead in a team of five: shared data pipeline (cleaning, fixed splits, class weights, annotator-agreement flag), the pretrained-transformer track (BERT and FinBERT, frozen / fine-tuned / weighted), the checkpoint-leakage investigation, the external-dataset evaluation, and the results analysis.
+Team lead: shared data pipeline (cleaning, fixed splits, class weights, annotator-agreement flag), the pretrained-transformer track (BERT and FinBERT, frozen / fine-tuned / weighted), the checkpoint-leakage investigation, the external-dataset evaluation, and the results analysis.
 
 ## Pipeline
 
@@ -39,4 +39,4 @@ PyTorch · Hugging Face Transformers (bert-base-uncased, yiyanghkust/finbert-pre
 
 ## Contributors
 
-Bingcheng (Bensen) Liu (lead, data pipeline, transformer track, evaluation) · Jinghua Li · Wanyun Wu · Lanqing Li · Ethan Li (TODO-CONFIRM: word-level models — TF-IDF + MLP, TextCNN, BiLSTM — EDA, report and presentation)
+Bingcheng (Bensen) Liu · Jinghua Li · Wanyun Wu · Lanqing Li · Ethan Li
