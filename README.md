@@ -39,4 +39,4 @@ PyTorch · Hugging Face Transformers (bert-base-uncased, yiyanghkust/finbert-pre
 
 ## Contributors
 
-Bingcheng (Bensen) Liu · Jinghua Li · Wanyun Wu · Lanqing Li · Ethan Li
+Bingcheng (Benson) Liu · Jinghua Li · Wanyun Wu · Lanqing Li · Ethan Li
